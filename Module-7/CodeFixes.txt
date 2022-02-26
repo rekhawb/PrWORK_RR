@@ -1,0 +1,51 @@
+
+
+//Below code is removed to fix extra text and blue border
+
+<div class="col-sm-12">
+		<div class="panel panel-primary">
+		<div class="panel-heading">Instructions</div>
+			<div class="panel-body text-center">
+					<h4>Oh no! Someone has vandalized our Boo 'The Cutest Dog In The World' fanpage!</h4>
+				<h4>There are a bunch of errors on this page!</h4>
+				<h4>Try your best to find them all!</h4>
+				</div>
+				</div>
+		</div>
+	</div>
+
+
+   //<p> tags added for the paragraph text under    <div class="panel-body">
+   //a href tag is fixed with right format. it shows url and also clicking the link works now
+   <a href="">https://en.wikipedia.org/wiki/Boo_(dog)</a>
+
+   //List Of Boo's Favorite Things moved to the end. <li> tags added
+
+   //right indentation added to the img tag
+   
+   img class="img-responsive" src 
+
+   // buttons grow/shrink , Orange/pink/Green moved right after the img tag
+
+   // Order of the colors and  buttons set to Orange Pink and Green
+    
+   //lines breaks placed in right places
+
+
+   //script was referencing errors.js . changed it to logic.js
+
+   // comments added where possible
+
+   // boofacts array has only one element. " marks set at right places to contain 5 values
+
+   //"" added around color pink
+
+   //"" added around click
+
+
+
+
+
+
+
+
